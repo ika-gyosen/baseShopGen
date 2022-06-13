@@ -4,7 +4,8 @@ https://github.com/hisho/react-static-generator
 ## 使い方
 まず`yarn`してnode_modulesを生成してください。
 
-`yarn start`するとhtmlファイルが生成されローカルサーバーが立ち上がります。同時に本番用のテンプレートファイルも生成されます。
+`yarn start`するとhtmlファイルが生成されローカルサーバー( http://localhost:9000/ )が立ち上がります。同時に本番用のテンプレートファイルも生成されます。
+
 
 
 ## フォルダ構成
