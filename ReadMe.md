@@ -1,5 +1,6 @@
 # ReadMe
-
+https://github.com/hisho/react-static-generator
+こちらのソースを参考にさせていただきました。ありがとうございます。
 ## 使い方
 まず`yarn`してnode_modulesを生成してください。
 
